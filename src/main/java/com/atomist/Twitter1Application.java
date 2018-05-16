@@ -1,3 +1,5 @@
+// No need to say 'I can do it.' You ARE doing it!
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
